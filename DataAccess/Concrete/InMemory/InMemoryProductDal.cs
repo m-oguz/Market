@@ -17,7 +17,7 @@ namespace DataAccess.Concrete.InMemory
             _products = new List<Product>
             {
                new Product { ProductId=1, CategoryId =1, ProductName="Pear",UnitPrice=4 },
-               new Product { ProductId=2, CategoryId =2, ProductName="Drink",UnitPrice=3},
+               new Product { ProductId=2, CategoryId =2, ProductName="Rice",UnitPrice=3},
                new Product { ProductId=3, CategoryId =2, ProductName="Meat",UnitPrice=13},
                new Product { ProductId=4, CategoryId =1, ProductName="Banana",UnitPrice=5 }
 
